@@ -1,16 +1,26 @@
 # flutter_boilerplate
 
-A new Flutter project.
+Boilerplate for flutter compatible with [finatra](https://github.com/twitter/finatra)
 
-## Getting Started
+### Getting Started
 
-This project is a starting point for a Flutter application.
+Step 1: Clone this project
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone https://github.com/tvc12/flutter_boilerplate.git
+```
+Step 2: Get dependence
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```bash
+flutter pub get
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Step 3: Run project
+
+```bash
+flutter run
+```
+
+### Contribute
+
+[![](https://sourcerer.io/fame/tvc12/tvc12/flutter_boilerplate/images/0)](https://sourcerer.io/fame/tvc12/tvc12/flutter_boilerplate/links/0)[![](https://sourcerer.io/fame/tvc12/tvc12/flutter_boilerplate/images/1)](https://sourcerer.io/fame/tvc12/tvc12/flutter_boilerplate/links/1)[![](https://sourcerer.io/fame/tvc12/tvc12/flutter_boilerplate/images/2)](https://sourcerer.io/fame/tvc12/tvc12/flutter_boilerplate/links/2)[![](https://sourcerer.io/fame/tvc12/tvc12/flutter_boilerplate/images/3)](https://sourcerer.io/fame/tvc12/tvc12/flutter_boilerplate/links/3)[![](https://sourcerer.io/fame/tvc12/tvc12/flutter_boilerplate/images/4)](https://sourcerer.io/fame/tvc12/tvc12/flutter_boilerplate/links/4)[![](https://sourcerer.io/fame/tvc12/tvc12/flutter_boilerplate/images/5)](https://sourcerer.io/fame/tvc12/tvc12/flutter_boilerplate/links/5)[![](https://sourcerer.io/fame/tvc12/tvc12/flutter_boilerplate/images/6)](https://sourcerer.io/fame/tvc12/tvc12/flutter_boilerplate/links/6)[![](https://sourcerer.io/fame/tvc12/tvc12/flutter_boilerplate/images/7)](https://sourcerer.io/fame/tvc12/tvc12/flutter_boilerplate/links/7)
