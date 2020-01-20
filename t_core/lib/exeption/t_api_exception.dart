@@ -4,8 +4,7 @@ part of t_core.exception;
 class TApiExecption extends TExeption {
   final String reason;
 
-  const TApiExecption({String message, this.reason, String stackStrace})
-      : super(message, stackStrace);
+  const TApiExecption({String message, this.reason, String stackStrace}) : super(message, stackStrace);
 
   TApiExecption.fromJson(Map<String, dynamic> json)
       : reason = json['reason'],
